@@ -1,0 +1,42 @@
+.Heading{
+    margin-left: 40px ;
+    padding-left: 180px;
+}
+
+
+
+.task-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .input-container input {
+    margin-right: 10px;
+  }
+  
+  .task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    margin-bottom: 10px;
+  }
+  
+  .task-item div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .bring-focus-button {
+    display: block;
+    margin: 20px auto;
+  }
+  
